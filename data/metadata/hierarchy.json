@@ -1,0 +1,39 @@
+{
+  "levels": [
+    {
+      "id": "district",
+      "label": "District",
+      "zoom": 8
+    },
+    {
+      "id": "city_corporation",
+      "label": "City Corporation",
+      "zoom": 9
+    },
+    {
+      "id": "upazila",
+      "label": "Upazila / Thana",
+      "zoom": 10
+    },
+    {
+      "id": "municipality",
+      "label": "Municipality",
+      "zoom": 10
+    },
+    {
+      "id": "union_ward",
+      "label": "Union / Ward",
+      "zoom": 11
+    },
+    {
+      "id": "mauza",
+      "label": "Mauza",
+      "zoom": 12
+    },
+    {
+      "id": "village",
+      "label": "Village",
+      "zoom": 13
+    }
+  ]
+}

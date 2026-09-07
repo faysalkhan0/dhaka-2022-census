@@ -1,0 +1,1197 @@
+{
+  "GEO_CODE_CLEAN": {
+    "label": "Geo Code Clean",
+    "field": "GEO_CODE_CLEAN",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "ADMIN_LEVEL": {
+    "label": "Admin Level",
+    "field": "ADMIN_LEVEL",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "source_row_number": {
+    "label": "Source Row Number",
+    "field": "source_row_number",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "level": {
+    "label": "Level",
+    "field": "level",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "district": {
+    "label": "District",
+    "field": "district",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "city_corporation": {
+    "label": "City Corporation",
+    "field": "city_corporation",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "upazila_thana": {
+    "label": "Upazila Thana",
+    "field": "upazila_thana",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "paurashava": {
+    "label": "Paurashava",
+    "field": "paurashava",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "union_ward": {
+    "label": "Union Ward",
+    "field": "union_ward",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "mauza": {
+    "label": "Mauza",
+    "field": "mauza",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "village_mahalla": {
+    "label": "Village Mahalla",
+    "field": "village_mahalla",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "household_except_floating_household_total_c_01": {
+    "label": "Household Except Floating Household Total C 01",
+    "field": "household_except_floating_household_total_c_01",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "general_c_01": {
+    "label": "General C 01",
+    "field": "general_c_01",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "institutional_c_01": {
+    "label": "Institutional C 01",
+    "field": "institutional_c_01",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "others_c_01": {
+    "label": "Others C 01",
+    "field": "others_c_01",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "population_including_floating_population_total_c_01": {
+    "label": "Population Including Floating Population Total C 01",
+    "field": "population_including_floating_population_total_c_01",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_c_01": {
+    "label": "Male C 01",
+    "field": "male_c_01",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_c_01": {
+    "label": "Female C 01",
+    "field": "female_c_01",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "hijra_c_01": {
+    "label": "Hijra C 01",
+    "field": "hijra_c_01",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sex_ratio_c_01": {
+    "label": "Sex Ratio C 01",
+    "field": "sex_ratio_c_01",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "total_c_02": {
+    "label": "Total C 02",
+    "field": "total_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "age_group_in_years_0_4_c_02": {
+    "label": "Age Group In Years 0 4 C 02",
+    "field": "age_group_in_years_0_4_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "5_9_c_02": {
+    "label": "5 9 C 02",
+    "field": "5_9_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "10_14_c_02": {
+    "label": "10 14 C 02",
+    "field": "10_14_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "15_19_c_02": {
+    "label": "15 19 C 02",
+    "field": "15_19_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "20_24_c_02": {
+    "label": "20 24 C 02",
+    "field": "20_24_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "25_29_c_02": {
+    "label": "25 29 C 02",
+    "field": "25_29_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "30_34_c_02": {
+    "label": "30 34 C 02",
+    "field": "30_34_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "35_39_c_02": {
+    "label": "35 39 C 02",
+    "field": "35_39_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "40_44_c_02": {
+    "label": "40 44 C 02",
+    "field": "40_44_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "45_49_c_02": {
+    "label": "45 49 C 02",
+    "field": "45_49_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "50_54_c_02": {
+    "label": "50 54 C 02",
+    "field": "50_54_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "55_59_c_02": {
+    "label": "55 59 C 02",
+    "field": "55_59_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "60_64_c_02": {
+    "label": "60 64 C 02",
+    "field": "60_64_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "65_69_c_02": {
+    "label": "65 69 C 02",
+    "field": "65_69_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "70_74_c_02": {
+    "label": "70 74 C 02",
+    "field": "70_74_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "75_79_c_02": {
+    "label": "75 79 C 02",
+    "field": "75_79_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "80_c_02": {
+    "label": "80 C 02",
+    "field": "80_c_02",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "total_c_03": {
+    "label": "Total C 03",
+    "field": "total_c_03",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "muslim_c_03": {
+    "label": "Muslim C 03",
+    "field": "muslim_c_03",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "hindu_c_03": {
+    "label": "Hindu C 03",
+    "field": "hindu_c_03",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "christian_c_03": {
+    "label": "Christian C 03",
+    "field": "christian_c_03",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "buddhist_c_03": {
+    "label": "Buddhist C 03",
+    "field": "buddhist_c_03",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "others_c_03": {
+    "label": "Others C 03",
+    "field": "others_c_03",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_population_number_c_04": {
+    "label": "Male Population Number C 04",
+    "field": "male_population_number_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "total_c_04": {
+    "label": "Total C 04",
+    "field": "total_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "never_married_c_04": {
+    "label": "Never Married C 04",
+    "field": "never_married_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "currently_married_c_04": {
+    "label": "Currently Married C 04",
+    "field": "currently_married_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "widowed_widower_c_04": {
+    "label": "Widowed Widower C 04",
+    "field": "widowed_widower_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "divorced_c_04": {
+    "label": "Divorced C 04",
+    "field": "divorced_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "separated_c_04": {
+    "label": "Separated C 04",
+    "field": "separated_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_population_number_c_04": {
+    "label": "Female Population Number C 04",
+    "field": "female_population_number_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "total_1_c_04": {
+    "label": "Total 1 C 04",
+    "field": "total_1_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "never_married_1_c_04": {
+    "label": "Never Married 1 C 04",
+    "field": "never_married_1_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "currently_married_1_c_04": {
+    "label": "Currently Married 1 C 04",
+    "field": "currently_married_1_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "widowed_widower_1_c_04": {
+    "label": "Widowed Widower 1 C 04",
+    "field": "widowed_widower_1_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "divorced_1_c_04": {
+    "label": "Divorced 1 C 04",
+    "field": "divorced_1_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "separated_1_c_04": {
+    "label": "Separated 1 C 04",
+    "field": "separated_1_c_04",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "5_years_and_above_total_c_05": {
+    "label": "5 Years And Above Total C 05",
+    "field": "5_years_and_above_total_c_05",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_c_05": {
+    "label": "Male C 05",
+    "field": "male_c_05",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_c_05": {
+    "label": "Female C 05",
+    "field": "female_c_05",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "7_years_and_above_total_c_05": {
+    "label": "7 Years And Above Total C 05",
+    "field": "7_years_and_above_total_c_05",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_1_c_05": {
+    "label": "Male 1 C 05",
+    "field": "male_1_c_05",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_1_c_05": {
+    "label": "Female 1 C 05",
+    "field": "female_1_c_05",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "15_years_and_above_total_c_05": {
+    "label": "15 Years And Above Total C 05",
+    "field": "15_years_and_above_total_c_05",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_2_c_05": {
+    "label": "Male 2 C 05",
+    "field": "male_2_c_05",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_2_c_05": {
+    "label": "Female 2 C 05",
+    "field": "female_2_c_05",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "population_number_c_06": {
+    "label": "Population Number C 06",
+    "field": "population_number_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "field_of_education_total_c_06": {
+    "label": "Field Of Education Total C 06",
+    "field": "field_of_education_total_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "general_c_06": {
+    "label": "General C 06",
+    "field": "general_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "technical_c_06": {
+    "label": "Technical C 06",
+    "field": "technical_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "religious_c_06": {
+    "label": "Religious C 06",
+    "field": "religious_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "others_c_06": {
+    "label": "Others C 06",
+    "field": "others_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "highest_level_of_education_attained_total_c_06": {
+    "label": "Highest Level Of Education Attained Total C 06",
+    "field": "highest_level_of_education_attained_total_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "attended_school_but_not_completed_play_nursery_kg_pre_primary_class_i_c_06": {
+    "label": "Attended School But Not Completed Play Nursery Kg Pre Primary Class I C 06",
+    "field": "attended_school_but_not_completed_play_nursery_kg_pre_primary_class_i_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "play_nursery_kg_pre_primary_student_c_06": {
+    "label": "Play Nursery Kg Pre Primary Student C 06",
+    "field": "play_nursery_kg_pre_primary_student_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "student_class_i_c_06": {
+    "label": "Student Class I C 06",
+    "field": "student_class_i_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "class_i_v_c_06": {
+    "label": "Class I V C 06",
+    "field": "class_i_v_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "class_vi_ix_c_06": {
+    "label": "Class Vi Ix C 06",
+    "field": "class_vi_ix_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "ssc_dakhil_o_level_equivalent_c_06": {
+    "label": "Ssc Dakhil O Level Equivalent C 06",
+    "field": "ssc_dakhil_o_level_equivalent_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "hsc_alim_a_level_equivalent_c_06": {
+    "label": "Hsc Alim A Level Equivalent C 06",
+    "field": "hsc_alim_a_level_equivalent_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "diploma_nursing_midwifery_c_06": {
+    "label": "Diploma Nursing Midwifery C 06",
+    "field": "diploma_nursing_midwifery_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "graduate_and_above_c_06": {
+    "label": "Graduate And Above C 06",
+    "field": "graduate_and_above_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "non_formal_informal_education_and_others_c_06": {
+    "label": "Non Formal Informal Education And Others C 06",
+    "field": "non_formal_informal_education_and_others_c_06",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "total_male_c_07": {
+    "label": "Total Male C 07",
+    "field": "total_male_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_c_07": {
+    "label": "Female C 07",
+    "field": "female_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "5_9_years_male_c_07": {
+    "label": "5 9 Years Male C 07",
+    "field": "5_9_years_male_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_1_c_07": {
+    "label": "Female 1 C 07",
+    "field": "female_1_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "10_14_years_male_c_07": {
+    "label": "10 14 Years Male C 07",
+    "field": "10_14_years_male_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_2_c_07": {
+    "label": "Female 2 C 07",
+    "field": "female_2_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "15_19_years_male_c_07": {
+    "label": "15 19 Years Male C 07",
+    "field": "15_19_years_male_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_3_c_07": {
+    "label": "Female 3 C 07",
+    "field": "female_3_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "20_24_years_male_c_07": {
+    "label": "20 24 Years Male C 07",
+    "field": "20_24_years_male_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_4_c_07": {
+    "label": "Female 4 C 07",
+    "field": "female_4_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "25_29_years_male_c_07": {
+    "label": "25 29 Years Male C 07",
+    "field": "25_29_years_male_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_5_c_07": {
+    "label": "Female 5 C 07",
+    "field": "female_5_c_07",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "population_total_c_08": {
+    "label": "Population Total C 08",
+    "field": "population_total_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_c_08": {
+    "label": "Male C 08",
+    "field": "male_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_c_08": {
+    "label": "Female C 08",
+    "field": "female_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "employed_total_c_08": {
+    "label": "Employed Total C 08",
+    "field": "employed_total_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_1_c_08": {
+    "label": "Male 1 C 08",
+    "field": "male_1_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_1_c_08": {
+    "label": "Female 1 C 08",
+    "field": "female_1_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "household_work_total_c_08": {
+    "label": "Household Work Total C 08",
+    "field": "household_work_total_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_2_c_08": {
+    "label": "Male 2 C 08",
+    "field": "male_2_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_2_c_08": {
+    "label": "Female 2 C 08",
+    "field": "female_2_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "looking_for_work_total_c_08": {
+    "label": "Looking For Work Total C 08",
+    "field": "looking_for_work_total_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_3_c_08": {
+    "label": "Male 3 C 08",
+    "field": "male_3_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_3_c_08": {
+    "label": "Female 3 C 08",
+    "field": "female_3_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "do_not_work_total_c_08": {
+    "label": "Do Not Work Total C 08",
+    "field": "do_not_work_total_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_4_c_08": {
+    "label": "Male 4 C 08",
+    "field": "male_4_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_4_c_08": {
+    "label": "Female 4 C 08",
+    "field": "female_4_c_08",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "total_c_09": {
+    "label": "Total C 09",
+    "field": "total_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_c_09": {
+    "label": "Male C 09",
+    "field": "male_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_c_09": {
+    "label": "Female C 09",
+    "field": "female_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "agriculture_total_c_09": {
+    "label": "Agriculture Total C 09",
+    "field": "agriculture_total_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_1_c_09": {
+    "label": "Male 1 C 09",
+    "field": "male_1_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_1_c_09": {
+    "label": "Female 1 C 09",
+    "field": "female_1_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "industry_total_c_09": {
+    "label": "Industry Total C 09",
+    "field": "industry_total_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_2_c_09": {
+    "label": "Male 2 C 09",
+    "field": "male_2_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_2_c_09": {
+    "label": "Female 2 C 09",
+    "field": "female_2_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "service_total_c_09": {
+    "label": "Service Total C 09",
+    "field": "service_total_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_3_c_09": {
+    "label": "Male 3 C 09",
+    "field": "male_3_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_3_c_09": {
+    "label": "Female 3 C 09",
+    "field": "female_3_c_09",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "total_c_10": {
+    "label": "Total C 10",
+    "field": "total_c_10",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "15_19_years_c_10": {
+    "label": "15 19 Years C 10",
+    "field": "15_19_years_c_10",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "20_24_years_c_10": {
+    "label": "20 24 Years C 10",
+    "field": "20_24_years_c_10",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_total_c_10": {
+    "label": "Male Total C 10",
+    "field": "male_total_c_10",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "15_19_years_1_c_10": {
+    "label": "15 19 Years 1 C 10",
+    "field": "15_19_years_1_c_10",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "20_24_years_1_c_10": {
+    "label": "20 24 Years 1 C 10",
+    "field": "20_24_years_1_c_10",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_total_c_10": {
+    "label": "Female Total C 10",
+    "field": "female_total_c_10",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "15_19_years_2_c_10": {
+    "label": "15 19 Years 2 C 10",
+    "field": "15_19_years_2_c_10",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "20_24_years_2_c_10": {
+    "label": "20 24 Years 2 C 10",
+    "field": "20_24_years_2_c_10",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "population_having_mobile_phone_for_own_use_5_years_and_above_total_c_11_": {
+    "label": "Population Having Mobile Phone For Own Use 5 Years And Above Total C 11 ",
+    "field": "population_having_mobile_phone_for_own_use_5_years_and_above_total_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_c_11_": {
+    "label": "Male C 11 ",
+    "field": "male_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_c_11_": {
+    "label": "Female C 11 ",
+    "field": "female_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "15_years_and_above_total_c_11_": {
+    "label": "15 Years And Above Total C 11 ",
+    "field": "15_years_and_above_total_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_1_c_11_": {
+    "label": "Male 1 C 11 ",
+    "field": "male_1_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_1_c_11_": {
+    "label": "Female 1 C 11 ",
+    "field": "female_1_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "internet_user_5_years_and_above_total_c_11_": {
+    "label": "Internet User 5 Years And Above Total C 11 ",
+    "field": "internet_user_5_years_and_above_total_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_2_c_11_": {
+    "label": "Male 2 C 11 ",
+    "field": "male_2_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_2_c_11_": {
+    "label": "Female 2 C 11 ",
+    "field": "female_2_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "15_years_and_above_total_1_c_11_": {
+    "label": "15 Years And Above Total 1 C 11 ",
+    "field": "15_years_and_above_total_1_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_3_c_11_": {
+    "label": "Male 3 C 11 ",
+    "field": "male_3_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_3_c_11_": {
+    "label": "Female 3 C 11 ",
+    "field": "female_3_c_11_",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "having_account_in_financial_institution_bank_insurance_micro_credit_post_office_etc_total_c_12": {
+    "label": "Having Account In Financial Institution Bank Insurance Micro Credit Post Office Etc Total C 12",
+    "field": "having_account_in_financial_institution_bank_insurance_micro_credit_post_office_etc_total_c_12",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_c_12": {
+    "label": "Male C 12",
+    "field": "male_c_12",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_c_12": {
+    "label": "Female C 12",
+    "field": "female_c_12",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "having_mobile_banking_account_total_c_12": {
+    "label": "Having Mobile Banking Account Total C 12",
+    "field": "having_mobile_banking_account_total_c_12",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_1_c_12": {
+    "label": "Male 1 C 12",
+    "field": "male_1_c_12",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_1_c_12": {
+    "label": "Female 1 C 12",
+    "field": "female_1_c_12",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "ethnic_population_total_c_13": {
+    "label": "Ethnic Population Total C 13",
+    "field": "ethnic_population_total_c_13",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "male_c_13": {
+    "label": "Male C 13",
+    "field": "male_c_13",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "female_c_13": {
+    "label": "Female C 13",
+    "field": "female_c_13",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "ethnic_population_in_major_groups_garo_c_13": {
+    "label": "Ethnic Population In Major Groups Garo C 13",
+    "field": "ethnic_population_in_major_groups_garo_c_13",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "chakma_c_13": {
+    "label": "Chakma C 13",
+    "field": "chakma_c_13",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "marma_c_13": {
+    "label": "Marma C 13",
+    "field": "marma_c_13",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "others_c_13": {
+    "label": "Others C 13",
+    "field": "others_c_13",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "general_household_c_14": {
+    "label": "General Household C 14",
+    "field": "general_household_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "type_of_structure_total_c_14": {
+    "label": "Type Of Structure Total C 14",
+    "field": "type_of_structure_total_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "pucca_c_14": {
+    "label": "Pucca C 14",
+    "field": "pucca_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "semi_pucca_c_14": {
+    "label": "Semi Pucca C 14",
+    "field": "semi_pucca_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "kancha_c_14": {
+    "label": "Kancha C 14",
+    "field": "kancha_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "jhupri_c_14": {
+    "label": "Jhupri C 14",
+    "field": "jhupri_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "ownership_status_total_c_14": {
+    "label": "Ownership Status Total C 14",
+    "field": "ownership_status_total_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "own_dwelling_unit_c_14": {
+    "label": "Own Dwelling Unit C 14",
+    "field": "own_dwelling_unit_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "rented_but_having_own_dwelling_unit_elsewhere_c_14": {
+    "label": "Rented But Having Own Dwelling Unit Elsewhere C 14",
+    "field": "rented_but_having_own_dwelling_unit_elsewhere_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "rented_and_having_no_own_dwelling_unit_elsewhere_c_14": {
+    "label": "Rented And Having No Own Dwelling Unit Elsewhere C 14",
+    "field": "rented_and_having_no_own_dwelling_unit_elsewhere_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "rent_free_but_having_own_dwelling_unit_elsewhere_c_14": {
+    "label": "Rent Free But Having Own Dwelling Unit Elsewhere C 14",
+    "field": "rent_free_but_having_own_dwelling_unit_elsewhere_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "rent_free_and_having_no_own_dwelling_unit_elsewhere_c_14": {
+    "label": "Rent Free And Having No Own Dwelling Unit Elsewhere C 14",
+    "field": "rent_free_and_having_no_own_dwelling_unit_elsewhere_c_14",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "general_household_c_15": {
+    "label": "General Household C 15",
+    "field": "general_household_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "source_of_drinking_water_total_c_15": {
+    "label": "Source Of Drinking Water Total C 15",
+    "field": "source_of_drinking_water_total_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "tap_pipe_supply_c_15": {
+    "label": "Tap Pipe Supply C 15",
+    "field": "tap_pipe_supply_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "tube_well_deep_shallow_c_15": {
+    "label": "Tube Well Deep Shallow C 15",
+    "field": "tube_well_deep_shallow_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "bottled_jar_water_c_15": {
+    "label": "Bottled Jar Water C 15",
+    "field": "bottled_jar_water_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "well_c_15": {
+    "label": "Well C 15",
+    "field": "well_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "pond_river_canal_lake_c_15": {
+    "label": "Pond River Canal Lake C 15",
+    "field": "pond_river_canal_lake_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "spring_c_15": {
+    "label": "Spring C 15",
+    "field": "spring_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "rain_water_c_15": {
+    "label": "Rain Water C 15",
+    "field": "rain_water_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "others_c_15": {
+    "label": "Others C 15",
+    "field": "others_c_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "general_household_c_16": {
+    "label": "General Household C 16",
+    "field": "general_household_c_16",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "toilet_facilities_total_c_16": {
+    "label": "Toilet Facilities Total C 16",
+    "field": "toilet_facilities_total_c_16",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "safe_disposal_with_flushing_pouring_water_c_16": {
+    "label": "Safe Disposal With Flushing Pouring Water C 16",
+    "field": "safe_disposal_with_flushing_pouring_water_c_16",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "unsafe_disposal_with_flushing_pouring_water_c_16": {
+    "label": "Unsafe Disposal With Flushing Pouring Water C 16",
+    "field": "unsafe_disposal_with_flushing_pouring_water_c_16",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "pit_latrine_with_slab_ventilated_improved_latrine_composting_latrine_c_16": {
+    "label": "Pit Latrine With Slab Ventilated Improved Latrine Composting Latrine C 16",
+    "field": "pit_latrine_with_slab_ventilated_improved_latrine_composting_latrine_c_16",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "pit_latrine_without_slab_open_pit_c_16": {
+    "label": "Pit Latrine Without Slab Open Pit C 16",
+    "field": "pit_latrine_without_slab_open_pit_c_16",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "raw_open_hanging_latrine_permanent_temporary_c_16": {
+    "label": "Raw Open Hanging Latrine Permanent Temporary C 16",
+    "field": "raw_open_hanging_latrine_permanent_temporary_c_16",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "open_defecation_no_latrine_available_c_16": {
+    "label": "Open Defecation No Latrine Available C 16",
+    "field": "open_defecation_no_latrine_available_c_16",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "general_household_c_17": {
+    "label": "General Household C 17",
+    "field": "general_household_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "source_of_cooking_fuel_total_c_17": {
+    "label": "Source Of Cooking Fuel Total C 17",
+    "field": "source_of_cooking_fuel_total_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "straw_leaf_bran_husk_c_17": {
+    "label": "Straw Leaf Bran Husk C 17",
+    "field": "straw_leaf_bran_husk_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "wood_chalk_chopped_wood_c_17": {
+    "label": "Wood Chalk Chopped Wood C 17",
+    "field": "wood_chalk_chopped_wood_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "wood_coal_charcoal_dried_dung_c_17": {
+    "label": "Wood Coal Charcoal Dried Dung C 17",
+    "field": "wood_coal_charcoal_dried_dung_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "kerosene_paraffin_c_17": {
+    "label": "Kerosene Paraffin C 17",
+    "field": "kerosene_paraffin_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "petrol_diesel_c_17": {
+    "label": "Petrol Diesel C 17",
+    "field": "petrol_diesel_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "electricity_c_17": {
+    "label": "Electricity C 17",
+    "field": "electricity_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "supply_gas_c_17": {
+    "label": "Supply Gas C 17",
+    "field": "supply_gas_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "lp_gas_c_17": {
+    "label": "Lp Gas C 17",
+    "field": "lp_gas_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "biogas_c_17": {
+    "label": "Biogas C 17",
+    "field": "biogas_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "others_c_17": {
+    "label": "Others C 17",
+    "field": "others_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "electricity_coverage_c_17": {
+    "label": "Electricity Coverage C 17",
+    "field": "electricity_coverage_c_17",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "general_household_c_18": {
+    "label": "General Household C 18",
+    "field": "general_household_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "household_comprising_1_person_c_18": {
+    "label": "Household Comprising 1 Person C 18",
+    "field": "household_comprising_1_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "2_person_c_18": {
+    "label": "2 Person C 18",
+    "field": "2_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "3_person_c_18": {
+    "label": "3 Person C 18",
+    "field": "3_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "4_person_c_18": {
+    "label": "4 Person C 18",
+    "field": "4_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "5_person_c_18": {
+    "label": "5 Person C 18",
+    "field": "5_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "6_person_c_18": {
+    "label": "6 Person C 18",
+    "field": "6_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "7_person_c_18": {
+    "label": "7 Person C 18",
+    "field": "7_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "8_person_c_18": {
+    "label": "8 Person C 18",
+    "field": "8_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "9_person_c_18": {
+    "label": "9 Person C 18",
+    "field": "9_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "10_person_c_18": {
+    "label": "10 Person C 18",
+    "field": "10_person_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "10_person_1_c_18": {
+    "label": "10 Person 1 C 18",
+    "field": "10_person_1_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "average_household_size_c_18": {
+    "label": "Average Household Size C 18",
+    "field": "average_household_size_c_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "code_15": {
+    "label": "Code 15",
+    "field": "code_15",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "code_18": {
+    "label": "Code 18",
+    "field": "code_18",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "LOCATION_KEY": {
+    "label": "Location Key",
+    "field": "LOCATION_KEY",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_4_2_2_learning_total": {
+    "label": "Sdg 4 2 2 Learning Total",
+    "field": "sdg_4_2_2_learning_total",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_4_2_2_learning_male": {
+    "label": "Sdg 4 2 2 Learning Male",
+    "field": "sdg_4_2_2_learning_male",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_4_2_2_learning_female": {
+    "label": "Sdg 4 2 2 Learning Female",
+    "field": "sdg_4_2_2_learning_female",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_5_b_1_mobile_total": {
+    "label": "Sdg 5 B 1 Mobile Total",
+    "field": "sdg_5_b_1_mobile_total",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_5_b_1_mobile_male": {
+    "label": "Sdg 5 B 1 Mobile Male",
+    "field": "sdg_5_b_1_mobile_male",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_5_b_1_mobile_female": {
+    "label": "Sdg 5 B 1 Mobile Female",
+    "field": "sdg_5_b_1_mobile_female",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_6_2_1a_basic_sanitation": {
+    "label": "Sdg 6 2 1A Basic Sanitation",
+    "field": "sdg_6_2_1a_basic_sanitation",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_6_2_1b_handwashing": {
+    "label": "Sdg 6 2 1B Handwashing",
+    "field": "sdg_6_2_1b_handwashing",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_7_1_1_electricity": {
+    "label": "Sdg 7 1 1 Electricity",
+    "field": "sdg_7_1_1_electricity",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_7_1_2_clean_fuel": {
+    "label": "Sdg 7 1 2 Clean Fuel",
+    "field": "sdg_7_1_2_clean_fuel",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_8_6_1_neet_total": {
+    "label": "Sdg 8 6 1 Neet Total",
+    "field": "sdg_8_6_1_neet_total",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_8_6_1_neet_male": {
+    "label": "Sdg 8 6 1 Neet Male",
+    "field": "sdg_8_6_1_neet_male",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_8_6_1_neet_female": {
+    "label": "Sdg 8 6 1 Neet Female",
+    "field": "sdg_8_6_1_neet_female",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_8_10_2_financial_inclusion_total": {
+    "label": "Sdg 8 10 2 Financial Inclusion Total",
+    "field": "sdg_8_10_2_financial_inclusion_total",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_8_10_2_financial_inclusion_male": {
+    "label": "Sdg 8 10 2 Financial Inclusion Male",
+    "field": "sdg_8_10_2_financial_inclusion_male",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_8_10_2_financial_inclusion_female": {
+    "label": "Sdg 8 10 2 Financial Inclusion Female",
+    "field": "sdg_8_10_2_financial_inclusion_female",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_11_1_1_urban_slum_total": {
+    "label": "Sdg 11 1 1 Urban Slum Total",
+    "field": "sdg_11_1_1_urban_slum_total",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_11_1_1_urban_slum_male": {
+    "label": "Sdg 11 1 1 Urban Slum Male",
+    "field": "sdg_11_1_1_urban_slum_male",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_11_1_1_urban_slum_female": {
+    "label": "Sdg 11 1 1 Urban Slum Female",
+    "field": "sdg_11_1_1_urban_slum_female",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_17_8_1_internet_total": {
+    "label": "Sdg 17 8 1 Internet Total",
+    "field": "sdg_17_8_1_internet_total",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_17_8_1_internet_male": {
+    "label": "Sdg 17 8 1 Internet Male",
+    "field": "sdg_17_8_1_internet_male",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "sdg_17_8_1_internet_female": {
+    "label": "Sdg 17 8 1 Internet Female",
+    "field": "sdg_17_8_1_internet_female",
+    "source": "2022 Dhaka Population and Housing Census"
+  },
+  "IS_LEAF": {
+    "label": "Is Leaf",
+    "field": "IS_LEAF",
+    "source": "2022 Dhaka Population and Housing Census"
+  }
+}
